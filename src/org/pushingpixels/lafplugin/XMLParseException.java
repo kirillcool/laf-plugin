@@ -42,8 +42,7 @@ package org.pushingpixels.lafplugin;
  * @author Marc De Scheemaecker
  * @version $Name$, $Revision: 39 $
  */
-public class XMLParseException
-    extends RuntimeException
+class XMLParseException extends RuntimeException
 {
 
     /**

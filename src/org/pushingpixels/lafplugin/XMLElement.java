@@ -100,7 +100,7 @@ import java.util.Vector;
  *         &lt;<A href="mailto:cyberelf@mac.com">cyberelf@mac.com</A>&gt;
  * @version $Name$, $Revision: 39 $
  */
-public class XMLElement
+class XMLElement
 {
 
     /**
